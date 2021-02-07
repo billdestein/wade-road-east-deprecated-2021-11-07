@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/wade-road-east/static/css/main.min.css",
+    "main.js": "/wade-road-east/static/js/bundle.min.js",
+    "main.js.map": "/wade-road-east/static/js/bundle.min.js.map",
+    "index.html": "/wade-road-east/index.html",
+    "precache-manifest.42be3de63c9fe32789545e1ae6b7d791.js": "/wade-road-east/precache-manifest.42be3de63c9fe32789545e1ae6b7d791.js",
+    "service-worker.js": "/wade-road-east/service-worker.js",
+    "static/css/main.min.css.map": "/wade-road-east/static/css/main.min.css.map",
+    "static/js/bundle.min.js.LICENSE": "/wade-road-east/static/js/bundle.min.js.LICENSE",
+    "static/media/logo.svg": "/wade-road-east/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/css/main.min.css",
+    "static/js/bundle.min.js"
+  ]
+}
